@@ -1,6 +1,6 @@
 # A Kotlin One-Pager Template for IntelliJ IDEA
 
-A Kotlin one-pager with a sample function and tests for use with IntelliJ IDEA.
+A Kotlin one-pager with a sample function and tests for use with IntelliJ IDEA. Based on the collection of [Rails Contribution](https://github.com/rails/rails/tree/main/guides/bug_report_templates) files.
 
 Great for quick ideas, testing theories, examples etc.
 
