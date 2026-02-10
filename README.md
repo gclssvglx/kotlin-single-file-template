@@ -1,6 +1,6 @@
-# A Kotlin Single File Template
+# A Kotlin One-Pager Template for IntelliJ IDEA
 
-An all-on-one-page Kotlin file with a sample function and tests - on one page.
+A Kotlin one-pager with a sample function and tests for use with IntelliJ IDEA.
 
 Great for quick ideas, testing theories, examples etc.
 
