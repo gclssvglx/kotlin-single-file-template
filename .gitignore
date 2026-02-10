@@ -1,0 +1,9 @@
+/gradlew
+/gradlew.bat
+/build/
+/.idea/
+/.gradle/
+/gradle/
+/local.properties
+/.vscode/
+.DS_Store
